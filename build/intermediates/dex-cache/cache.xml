@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\felix\.android\build-cache\b58e8aa46cf3b5d5d1b8c4c1970a1f946f2c5df2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\felix\Desktop\BarSemLona_2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae6947c9274cd1d437ad3bb0a9fbf619af6cb878\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\felix\.android\build-cache\4990829d52e956919bc89dd0cae3972e0776de77\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c032de95c1c05a187497169bfd84c3af4da634c">
+        <dex dex="C:\Users\felix\Desktop\BarSemLona_2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db7a1e98cbe4a4b24e2c57e686ee6dfd581193cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\felix\Desktop\BarSemLona_2.0\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23033e04bdbb17b9feb884711018425d5cd2763">
+        <dex dex="C:\Users\felix\Desktop\BarSemLona_2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5d8b305ce037adb6d9d53b294a74d693581e8dfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\felix\.android\build-cache\b58e8aa46cf3b5d5d1b8c4c1970a1f946f2c5df2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\felix\Desktop\BarSemLona_2.0\app\build\intermediates\pre-dexed\debug\classes_ae6947c9274cd1d437ad3bb0a9fbf619af6cb878.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\felix\.android\build-cache\a0dbb14a7dec92645ac49a2aed02861973147630\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\felix\Desktop\BarSemLona_2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c52fe913d6f47edf055e87b6b161d2224f2bdcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\felix\.android\build-cache\684b66cfd24b894ae96dea84cd54a0a5e81c1b3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8029fa5b1aaacd5bcec74016792e08efc9abd901">
+        <dex dex="C:\Users\felix\Desktop\BarSemLona_2.0\app\build\intermediates\pre-dexed\debug\classes_8670d0088bcfaf4f28bea8e3b4726b25557cecb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\felix\.android\build-cache\a0dbb14a7dec92645ac49a2aed02861973147630\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\felix\Desktop\BarSemLona_2.0\app\build\intermediates\pre-dexed\debug\classes_6c52fe913d6f47edf055e87b6b161d2224f2bdcd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\felix\.android\build-cache\684b66cfd24b894ae96dea84cd54a0a5e81c1b3a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8029fa5b1aaacd5bcec74016792e08efc9abd901">
+        <dex dex="C:\Users\felix\Desktop\BarSemLona_2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8670d0088bcfaf4f28bea8e3b4726b25557cecb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\felix\Desktop\BarSemLona_2.0\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\felix\Desktop\BarSemLona_2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6c122c709e840febc481a8e98214f0345ba0753c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\felix\.android\build-cache\241c798781fbfb5fed4b1e02d772908c2d11d9c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\felix\Desktop\BarSemLona_2.0\app\build\intermediates\pre-dexed\debug\classes_9736a52d1c7517043a0d2a0eb3560a2bafa1164e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\felix\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="C:\Users\felix\Desktop\BarSemLona_2.0\app\build\intermediates\pre-dexed\debug\core-3.3.0_ab29ca942e8a6b7b989803a03583c80c2ecb3c6c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\felix\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="C:\Users\felix\Desktop\BarSemLona_2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.3.0_ab29ca942e8a6b7b989803a03583c80c2ecb3c6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\felix\.android\build-cache\241c798781fbfb5fed4b1e02d772908c2d11d9c1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\felix\Desktop\BarSemLona_2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9736a52d1c7517043a0d2a0eb3560a2bafa1164e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\felix\.android\build-cache\7d1cc74ab11f081fe789d109b861b466e714f7d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\felix\Desktop\BarSemLona_2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3edd93510e3b717ecce281336330689e73bfd67e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\felix\.android\build-cache\4990829d52e956919bc89dd0cae3972e0776de77\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c032de95c1c05a187497169bfd84c3af4da634c">
+        <dex dex="C:\Users\felix\Desktop\BarSemLona_2.0\app\build\intermediates\pre-dexed\debug\classes_db7a1e98cbe4a4b24e2c57e686ee6dfd581193cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\felix\.android\build-cache\7d1cc74ab11f081fe789d109b861b466e714f7d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\felix\Desktop\BarSemLona_2.0\app\build\intermediates\pre-dexed\debug\classes_3edd93510e3b717ecce281336330689e73bfd67e.jar" />
+    </item>
+
+</items>

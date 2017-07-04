@@ -1,0 +1,97 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.enterprise.barsemlona.barsemlona_20.EnderecoFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginStart="15dp">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        android:weightSum="1">
+
+        <EditText
+            android:id="@+id/nomeEndereco"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Digite o Nome de Seu Enrereço"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/logradouroEndereco"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Nome da Rua"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/numeroEndereco"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Número da Rua"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/cepEndereco"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="CEP"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/complementoEndereco"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Complemento"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/cidadeEndereco"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Cidade"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/paisEndereco"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Pais"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/ufEndereco"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="UF"
+            android:inputType="textPersonName"
+            android:maxLength="2"/>
+
+        <Button
+            android:id="@+id/buttonEndereco"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cadastrar"
+            android:backgroundTint="@color/colorPrimary"
+            android:textColor="@color/cardview_light_background" />
+
+    </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

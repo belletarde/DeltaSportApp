@@ -1,0 +1,95 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.enterprise.barsemlona.barsemlona_20.FinalizarCompraFragment"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    android:layout_marginTop="10dp">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Finalizar Compra"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true"
+                android:id="@+id/txt_title_finalizar"
+                android:textStyle="normal|bold"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"/>
+
+            <TextView
+                android:text="Endereço de Entrega"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/id_endereco"
+                android:textColor="@android:color/black"
+                android:layout_marginTop="10dp" />
+
+            <TextView
+                android:text="Formas de Pagamento"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/txt_title_adress"
+                android:textColor="@android:color/black"
+                android:layout_marginTop="10dp"
+                android:textAlignment="viewStart"
+                android:textSize="16sp"
+                android:textStyle="normal|bold" />
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="100dp" >
+
+                <RadioButton
+                    android:text="Cartão de Crédito"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/id_credito"
+                    android:layout_weight="1" />
+
+                <RadioButton
+                    android:id="@+id/id_pagseguro"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="pagSeguro" />
+
+                <RadioButton
+                    android:id="@+id/id_paypal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="PayPal" />
+
+                <RadioButton
+                    android:text="Boleto"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/id_boleto"
+                    android:layout_weight="1" />
+
+            </RadioGroup>
+
+            <Button
+                android:text="Concluir"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btn_finalizar_compra"
+                android:backgroundTint="@color/colorPrimary"
+                android:textColor="@color/cardview_light_background" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

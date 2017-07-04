@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_termos"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.enterprise.barsemlona.barsemlona_20.TermosActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="match_parent"
+                android:weightSum="1">
+
+
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="41dp"
+                    app:srcCompat="?android:attr/actionModeCopyDrawable"
+                    android:id="@+id/imageView3" />
+
+                <TextView
+                    android:layout_width="184dp"
+                    android:layout_height="wrap_content"
+                    android:text="Termos e Serviços"
+                    android:ems="10"
+                    android:layout_alignParentTop="true"
+                    android:layout_toEndOf="@+id/imageView2"
+                    android:layout_marginStart="19dp"
+                    android:id="@+id/editText3"
+                    android:textSize="18sp"
+                    android:layout_marginTop="10dp"
+                    android:textStyle="normal|bold" />
+            </LinearLayout>
+
+            <TextView
+                android:text="Lorem ipt, consectetur adipiscing elit. Sed sollicitudin neque ac velit aliquam accumsan. Nam at sem semper, porta orci a, commodo ante. Vivamus justo leo, lobortis et nibh at, dictum gravida velit. Praesent erat arcu, ultrices ac erat eu, vestibulum fermentum nisl. Aliquam vestibulum placerat magna vitae ullamcorper. Curabitur pretium placerat odio, eget malesuada libero mollis non. Aliquam malesuada ac massa ac consequat. Sed dictum sollicitudin massa, et gravida enim. Vestibulum maximus mauris sed sem commodo, eget condimentum nulla aliquam. Sed diam est, aliquam quis vulputate ut, viverra sed dui.  Cras vulputate venenatis risus eget tristique. Ut in diam quis tellus fermentum maximus. Phasellus efficitur tortor non quam ornare, at vulputate ligula varius. Donec quis dolor ac felis tristique fringilla. Etiam condimentum aliquet imperdiet. Nam tristique massa vitae urna elementum, in posuere mi tincidunt. Ut vestibulum eu libero ac blandit. Quisque lobortis sagittis neque,ndisse viverra quis"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/editText3"
+                android:layout_alignParentStart="false"
+                android:layout_marginTop="20dp"
+                android:id="@+id/textView2"
+                android:layout_gravity="right" />
+
+            <CheckBox
+                android:text="Aceitar"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="17dp"
+                android:id="@+id/term_accept"
+                android:layout_gravity="center"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center" />
+
+            <Button
+                android:text="Enviar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btn_termos"
+                android:background="@color/colorPrimary"
+                android:textColor="@color/cardview_light_background" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
